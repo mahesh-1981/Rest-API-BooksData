@@ -1,4 +1,4 @@
-package com.mahesh.restapi.DAO;
+package com.mahesh.restapi.Repository;
 
 import com.mahesh.restapi.Model.Book;
 import org.springframework.stereotype.Repository;

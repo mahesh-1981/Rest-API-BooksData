@@ -1,6 +1,6 @@
 package com.mahesh.restapi.Service;
 
-import com.mahesh.restapi.DAO.BooksDB;
+import com.mahesh.restapi.Repository.BooksDB;
 import com.mahesh.restapi.Model.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
