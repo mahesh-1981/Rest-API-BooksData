@@ -6,7 +6,7 @@
 In this project 
 
 
-I created 4 Layers
+I created 4 Layers.
 
 (i) Model -> This layer contains business logic
 (ii) Controller -> This layer receives URI's From any client 
