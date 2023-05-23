@@ -3,10 +3,7 @@
 ## project Explanation
 
 
-In this project 
-
-
-I created 4 Layers.
+In this project 4 Layers are there namely.
 
 <pre> 
 <b>(i) Model</b> :  This layer contains business logic <br>
