@@ -22,5 +22,5 @@ In this project 4 Layers are there namely.
  <h3> Repository_Layer </h3>
  
 <pre> This is a database layer where all necessary information are stored.
-The data here is persistent. </pre>
+ The data here is persistent. </pre>
  
